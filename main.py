@@ -4,7 +4,6 @@ import math
 clear = lambda: os.system('cls')
 rez = 0
 
-
 def kalc(a, b, num):
     if (num == 1):
         rez = a + b
