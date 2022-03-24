@@ -58,7 +58,6 @@ def kalc(a, b, num):
             print("Ответ: " + str(math.sin(a)))
         if (o == 2):
             print("Ответ: " + str(math.sin(b)))
-
 def stroka(s):
     clear()
     print("Строка - " + str(s))
